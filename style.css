@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #533A7B;
+    color: #98C1D9;
+}
+header {
+    position: fixed;
+
+    background-color: #6969B3;
+    border: #533A7B solid 3px;
+    
+}
+ul li {
+    display: inline;
+}
+
+.whoiam-box {
+   border: #6969B3 solid 2px;
+   margin: 20px;
+   padding: 10px;
+
+}
+a {
+    text-decoration: none;
+}
+
+.whoiam-box__text1 {
+    text-align: right;
+}
+.whoiam-box__text2 {
+    text-align: center;
+}
+
+
